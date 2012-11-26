@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroGiit", "IntroGiit.csproj", "{9ADA47EE-5B8A-4C42-A020-752350414FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADA47EE-5B8A-4C42-A020-752350414FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADA47EE-5B8A-4C42-A020-752350414FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADA47EE-5B8A-4C42-A020-752350414FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADA47EE-5B8A-4C42-A020-752350414FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
